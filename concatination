@@ -1,0 +1,7 @@
+#pythoncodeforconcatination
+
+first_word = "Hello"  
+second_word = "World!"
+print (first_word + second_word)
+
+#The Result is Hello World!
