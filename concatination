@@ -1,7 +1,19 @@
-#pythoncodeforconcatination
+#PythonCodeForConcatination
 
 first_word = "Hello"  
 second_word = "World!"
 print (first_word + second_word)
 
 #The Result is Hello World!
+
+#PythonCodeForConcatination
+
+var_1 = "Hello"
+var_2 = " "
+var_3 = "python"
+var_4 = "programmer"
+var_5 ="!"
+New_var = var_1 + var_2 + var_3+ var_2 + var_4 + var_5
+print(New_var)
+
+#The Result is Hello python programmer!
